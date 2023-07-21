@@ -21,6 +21,7 @@ pre-commit
 networkx>=2.6
 get_version>=3.5.4
 # trimap>=1.0.11
+scanpy=1.9.3
 openpyxl
 typing-extensions
 session-info>=1.0.0
